@@ -1,3 +1,1 @@
-while wait() do
-    print("X#EDO#######(#JR(*#")
-end
+print("Test2 Loaded! :D")
