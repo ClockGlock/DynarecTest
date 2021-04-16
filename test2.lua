@@ -1,1 +1,3 @@
-print(script.Parent.test1)
+while wait() do
+    print("X#EDO#######(#JR(*#")
+end
