@@ -1,1 +1,1 @@
-print("Test Successful")
+print(message)
